@@ -1,6 +1,6 @@
 # ShreeRadhe
-# Date      ---- 12-Aug-2016
-# Members   ---- Rahul & Vivek 
+Date      ---- 12-Aug-2016
+Members   ---- Rahul & Vivek 
 
 Our dream project to create a website that will help people to learn coding.
 
